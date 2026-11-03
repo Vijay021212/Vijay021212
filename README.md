@@ -1,7 +1,7 @@
 # Hi, I'm Vijay Bolle 👋
 
-**Full-Stack AI Engineer** working on healthcare technology — building LLM agents and the
-platforms that power prior-authorization and medical-review workflows at scale.
+**Full-Stack AI Engineer** working on healthcare Domain — building LLM agents and the
+platforms that power prior-authorization, Claims and medical-review workflows at scale.
 
 > Shipping AI responsibly in regulated domains: measure it, shadow-test it,
 > compare it against ground truth — *then* trust it.
